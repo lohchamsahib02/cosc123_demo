@@ -12,7 +12,7 @@ Random text in body
 list:
 - 1
 - 2
-- 3
+
 
 numbered list:
 
